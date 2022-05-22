@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/abdullah-morsi-aboelkhair/](https://www.linkedin.com/in/abdullah-morsi-aboelkhair/)
 
-- 💬 Ask me about **Php, Laravel**
+- 💬 Ask me about **PHP, Laravel, Data structures & Algorithms**
 
 - 📫 How to reach me **abdullahmorsi69@gmail.com**
 
