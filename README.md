@@ -1,5 +1,12 @@
 <h1 align="center">Hi 👋, I'm Abdullah Aboelkhair</h1>
-<h3 align="center">A passionate Backend developer</h3>
+
+<p align="center">
+  <a><img src="https://github.com/abdullahMorsi/abdullahMorsi/assets/62671812/0c95094e-6657-49a8-ac12-f1936370060b"></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true&lines=I'm+a+Backend+Developer"></a>
+</p>
 
 - 🔭 I’m currently working on **Web development**
 
