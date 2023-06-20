@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **abdullahmorsi69@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1D8QqvgCfhm9CaM6rnYJLi20eHeT4kNhp/view?usp=sharing](https://drive.google.com/file/d/1D8QqvgCfhm9CaM6rnYJLi20eHeT4kNhp/view?usp=sharing)
+- 📄 Know about my experiences: <a href="https://drive.google.com/file/d/1AoIKvqIEvskpbgU9HIt2_oWnytt3O1Aa/view?usp=sharing">CV</a>
 
 - ⚡ Fun fact **I am a petroleum engineer too! :)**
 
