@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available on LinkedIn & here
 
-- 💬 Ask me about **C#, .Net, Data structures & Algorithms**
+- 💬 Ask me about **C#, .Net CORE, Data structures & Algorithms**
 
 - 📫 How to reach me **abdullahmorsi69@gmail.com**
 
