@@ -5,16 +5,15 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true&lines=I'm+a+.NET+Developer"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true&lines=I'm+a+Software+Engineer"></a>
 </p>
 
-- 🔭 I’m currently working on **Professional Web development**
+- 🔭 I’m currently working in **Microsoft Dynamics 356 and .Net Development**
 
-- 🌱 I’m currently studying at **ITI**
 
 - 👨‍💻 All of my projects are available on LinkedIn & here
 
-- 💬 Ask me about **C#, .Net CORE, Data structures & Algorithms**
+- 💬 Ask me about **D365, C#, .Net CORE, Data structures & Algorithms**
 
 - 📫 How to reach me **abdullahmorsi69@gmail.com**
 
